@@ -1,4 +1,3 @@
 ffmpeg
 dbus-x11
 fluxbox
-midori
