@@ -1,2 +1,5 @@
 ffmpeg
-nodejs
+xfce4
+xfce4-terminal
+dbus-x11
+firefox
