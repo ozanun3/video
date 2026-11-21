@@ -1,2 +1,2 @@
+jupyter-remote-desktop-proxy
 yt-dlp
-bgutil-ytdlp-pot-provider
