@@ -1,0 +1,11 @@
+name: ytdlp-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ffmpeg
+  - deno
+  - pip
+  - pip:
+    - yt-dlp[default]
