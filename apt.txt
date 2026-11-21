@@ -1,1 +1,4 @@
 ffmpeg
+curl
+git
+unzip
